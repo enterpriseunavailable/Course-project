@@ -1,9 +1,9 @@
 # Course-project
 This is the COMP2113 course project. 
 Team member: GAO Zili 3035952135
-Description of the game: 
+## Description of the game: 
 A text based RPG game. Players need to schedule properly in order to improve status. Player can beat the final boss in various ways depending on their choice scheduling.
-Features: 
+## Features: 
 1. Player can check their status at any time, supported by file input and output.
 2. The initial status of player is random, supported by generation of random game or events.
 3. The game can memorize player's status supported by data structure
